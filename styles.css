@@ -61,9 +61,16 @@ h3{
   font-style: italic;
   text-indent: 10px;
 }
+a{
+  text-decoration: none;
+}
 a:visited{
   color: yellow;
+  
 }
 a:hover{
   color: red;
+}
+span{
+  font-weight: bold;
 }
